@@ -41,3 +41,7 @@ footer{
 #chapter-8 > p:nth-child(52) > span > span:first-child{
 	border-bottom: 1px solid;
 }
+
+.telegram{
+	font-variant: all-small-caps;
+}
