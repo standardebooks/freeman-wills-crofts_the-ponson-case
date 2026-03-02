@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="local.css">
-		<ignore>
-			<code>c-027</code>
+		<ignore code="c-027">
 			<reason>Deliberate presentation that matches scans, and the same text is at normal size two paragraphs down.</reason>
 		</ignore>
 	</file>
