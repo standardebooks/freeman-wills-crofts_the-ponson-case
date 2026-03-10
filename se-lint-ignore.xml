@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="local.css">
 		<ignore code="c-027">
+			<line>32</line>
 			<reason>Deliberate presentation that matches scans, and the same text is at normal size two paragraphs down.</reason>
 		</ignore>
 	</file>
